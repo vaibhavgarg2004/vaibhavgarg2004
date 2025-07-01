@@ -40,19 +40,11 @@ I'm a dedicated ML enthusiast with hands-on experience in statistical modeling, 
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavgarg2004&show_icons=true&theme=default" alt="Vaibhav's GitHub stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgarg2004&layout=compact" alt="Top Languages" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=vaibhavgarg2004&theme=default" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavgarg2004&theme=flat&margin-w=10&no-frame=true" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavgarg2004&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
