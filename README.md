@@ -8,6 +8,12 @@
 
 ---
 
+### 📝 About Me
+
+I'm a dedicated ML enthusiast with hands-on experience in statistical modeling, deep learning, and deploying data-driven apps. I enjoy translating complex problems into actionable solutions and believe in writing clean, maintainable code.
+
+---
+
 ### 🧰 Tech Stack
 
 <p>
@@ -32,17 +38,6 @@
 
 </p>
 
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavgarg2004&show_icons=true&theme=default" alt="Vaibhav's GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgarg2004&layout=compact" alt="Top Languages" width="48%">
-</p>
-
----
 
 ### 📫 Let's Connect
 
