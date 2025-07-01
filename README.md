@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hi, I'm Vaibhav Garg</h1>
 
 <p align="center">
-  🎓 Final-year Computer Science student (AI/ML Minor)<br>
-  🧠 Passionate about intelligent systems & real-world problem solving<br>
-  🚀 Exploring ML, DSA, and scalable app development
+  🎓 Computer Science graduate specialized in AI/ML<br>
+  🧠 Enthusiastic about building intelligent systems & solving real-world problems<br>
+  🚀 Focused on ML, DSA, and scalable app development
 </p>
-
 ---
 
 ### 📝 About Me
