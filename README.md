@@ -38,6 +38,7 @@ I'm a dedicated ML enthusiast with hands-on experience in statistical modeling, 
 
 </p>
 
+---
 
 ### 📫 Let's Connect
 
