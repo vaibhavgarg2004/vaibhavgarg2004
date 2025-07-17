@@ -2,7 +2,9 @@
 
 <p align="center">
   🎓 Computer Science graduate specialized in AI/ML
+  
   🧠 Enthusiastic about intelligent systems, Generative AI & real-world impact
+  
   🚀 Focused on ML, DSA, and scalable app development
 </p>
 
