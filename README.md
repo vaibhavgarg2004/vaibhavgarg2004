@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Vaibhav Garg</h1>
 
 <p align="center">
-  🎓 Computer Science graduate specialized in AI/ML
-  🧠 Enthusiastic about intelligent systems, Generative AI & real-world impact
+  🎓 Computer Science graduate specialized in AI/ML<br>
+  🧠 Enthusiastic about intelligent systems, Generative AI & real-world impact<br>
   🚀 Focused on ML, DSA, and scalable app development
 </p>
 
