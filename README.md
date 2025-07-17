@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Vaibhav Garg</h1>
 
 <p align="center">
-  🎓 Computer Science graduate specialized in AI/ML<br>
-  🧠 Enthusiastic about building intelligent systems & solving real-world problems<br>
+  🎓 Computer Science graduate specialized in AI/ML
+  🧠 Enthusiastic about intelligent systems, Generative AI & real-world impact
   🚀 Focused on ML, DSA, and scalable app development
 </p>
 
@@ -10,7 +10,7 @@
 
 ### 📝 About Me
 
-I'm a dedicated ML enthusiast with hands-on experience in statistical modeling, deep learning, and deploying data-driven apps. I enjoy translating complex problems into actionable solutions and believe in writing clean, maintainable code.
+I'm a dedicated ML enthusiast with hands-on experience in statistical modeling, deep learning, and Generative AI. I’ve worked on deploying intelligent, data-driven apps and enjoy translating complex problems into actionable, user-focused solutions. Passionate about clean, maintainable code and clear communication.
 
 ---
 
@@ -31,6 +31,11 @@ I'm a dedicated ML enthusiast with hands-on experience in statistical modeling, 
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+  <!-- GenAI Tools -->
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-5E17EB?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-AE2EFF?style=for-the-badge&logo=openai&logoColor=black"/>
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
