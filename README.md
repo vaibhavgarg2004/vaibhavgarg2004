@@ -36,6 +36,9 @@ I'm a dedicated ML enthusiast with hands-on experience in statistical modeling, 
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChromaDB-5E17EB?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Groq-AE2EFF?style=for-the-badge&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agnos-A600FF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastMCP-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
