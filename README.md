@@ -6,10 +6,6 @@
   🚀 Focused on ML, DSA, and scalable app development
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavgarg2004&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views"/>
-</p>
-
 ---
 
 ### 📝 About Me
