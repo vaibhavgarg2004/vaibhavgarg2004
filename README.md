@@ -6,6 +6,10 @@
   🚀 Focused on ML, DSA, and scalable app development
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaibhavgarg2004&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views"/>
+</p>
+
 ---
 
 ### 📝 About Me
@@ -54,7 +58,6 @@ I'm a dedicated ML enthusiast with hands-on experience in statistical modeling, 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhavgarg2004&show_icons=true&theme=default" alt="Vaibhav's GitHub stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgarg2004&layout=compact" alt="Top Languages" width="48%"/>
-  ![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 </p>
 
 ---
